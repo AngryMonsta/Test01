@@ -42,4 +42,4 @@ title: Chengxi Zhang
 Chengxi Zhang is currently a scientist at Zymergen. Her research interests include cutting edge gene editing, natural product discovery, metagenomics and bioinformatics.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ChengxiZ_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
