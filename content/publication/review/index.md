@@ -13,8 +13,8 @@ image:
 projects: []
 publication: '*Current opinion in microbiology, 51*'
 publication_short: "COMICR"
-publication_types:
-- "1"
+publication_types: 
+- "0"
 publishDate: "2019-10-19T00:00:00Z"
 #slides: example
 summary: Antibiotic discovery through microbial interactions.
