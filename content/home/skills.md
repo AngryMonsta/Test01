@@ -16,19 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Molecular cloning; Gene editing (CRISPR/Cas9); Metabolic pathway engineering; Bacterial cell culture extraction (DNA, RNA, metabolites); Fermentation; Protein overexpression and purification; Phage transduction
+  icon: fa-solid fa-bacteria
+  icon_pack: fas
+  name: Bacterial genetics  
+- description: Chemical extraction, purification, identification and quantification using HPLC,MALDI and LCMS  
+  icon: fa-regular fa-flask
+  icon_pack: fas
+  name: Analytical Chemistry
+- description: Data analysis and visualization using R
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Data Analysis  
 
+##- description: 10%
+##  icon: chart-line
+##  icon_pack: fas
+##  name: Bioinformatic and Data Analysis
+##- description: 10%
+##  icon: camera-retro
+##  icon_pack: fas
+##  name: Photography
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
