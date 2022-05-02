@@ -5,7 +5,7 @@ education:
   - course: Ph.D. in Biochemistry and Biophysics
     institution: Texas A&M University
     year: 2020
-  - course: BSc in Pharmaceutical Sciences
+  - course: B.S. in Pharmaceutical Sciences
     institution: Wuhan University
     year: 2012
 email: ""
