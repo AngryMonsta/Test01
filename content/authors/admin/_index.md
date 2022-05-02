@@ -16,8 +16,8 @@ interests:
 - Natural product discovery
 organizations:
 - name: Texas A&M University
-  url: https://www.zymergen.com/
-role: Ph.D. in Biochemistry and Biophysics
+  url: https://bcbp.tamu.edu/
+role: Ph.D. in Biochemistry
 social:
 - icon: envelope
   icon_pack: fas
