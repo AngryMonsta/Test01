@@ -53,9 +53,10 @@ experience:
     date_start: '2013-08-14'
     date_end: '2020-08-07'
     description: |2-
-        Develop an efficient genome-wide secondary metabolite screening tool in Streptomyces species using CRISPR interference
-        Discover and characterize natural products using multidisciplinary approaches
-        Investigate the mechanisms of regulatory elements in bacterial secondary metabolite biosynthetic gene clusters
+        
+        *  Develop an efficient genome-wide secondary metabolite screening tool in Streptomyces species using CRISPR interference
+        *  Discover and characterize natural products using multidisciplinary approaches
+        *  Investigate the mechanisms of regulatory elements in bacterial secondary metabolite biosynthetic gene clusters
   
   - title: Undergraduate Research Assistant
     company: Key Laboratory of Combinatorial Biosynthesis and Drug Discovery
