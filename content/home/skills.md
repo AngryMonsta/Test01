@@ -19,7 +19,7 @@ feature:
 - description: Molecular cloning; Gene editing (CRISPR/Cas9); Metabolic pathway engineering; Bacterial cell culture extraction (DNA, RNA, metabolites); Fermentation; Protein overexpression and purification; Phage transduction
   icon: fa-solid fa-bacteria
   icon_pack: fas
-  name: Bacterial genetics  
+  name: Bacterial Genetics  
 - description: Chemical extraction, purification, identification and quantification using HPLC,MALDI and LCMS  
   icon: fa-regular fa-flask
   icon_pack: fas
